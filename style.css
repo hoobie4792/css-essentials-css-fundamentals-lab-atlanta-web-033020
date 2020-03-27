@@ -38,4 +38,5 @@ figcaption {
 
 #details > div {
   display: block;
+  float: center;
 }
