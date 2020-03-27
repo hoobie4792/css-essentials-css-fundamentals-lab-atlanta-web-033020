@@ -30,5 +30,6 @@ figcaption {
 }
 
 #featured-property > p {
-  background: yellow;
+  width: 800px;
+  text-align: center;
 }
